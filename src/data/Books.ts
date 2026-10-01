@@ -1,6 +1,6 @@
 import { BookEntity } from "./BookEntity";
 export const books: BookEntity[] = [
-  
+
   new BookEntity(
     "Pet Sematary",
     "When Dr. Louis Creed takes a new job and moves his family to the idyllic and rural town of Ludlow, Maine, this new beginning seems too good to be true. Yet despite Ludlow’s tranquility, there’s an undercurrent of danger that exists here. Those trucks on the road outside the Creed’s beautiful old home travel by just a little too quickly, for one thing…as is evidenced by the makeshift pet cemetery out back in the nearby woods. Then there are the warnings to Louis both real and from the depths of his nightmares that he should not venture beyond the borders of this little graveyard. A blood-chilling truth is hidden there—one more terrifying than death itself, and hideously more powerful. An ominous fate befalls anyone who dares tamper with this forbidden place, as Louis is about to discover for himself…",
@@ -24,7 +24,7 @@ Today, Maggie is a restorer of old homes and too young to remember any of the ev
     "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1571683410l/50833559.jpg"
   ),
   new BookEntity(
-    "The Last Time I Lied", 
+    "The Last Time I Lied",
     "Fifteen years ago, summer camper Emma Davis watched sleepily as her three cabin mates snuck out of their cabin in the dead of night. The last she--and anyone--saw of them was Vivian closing the cabin door behind her, hushing Emma with a finger pressed to her lips.",
     "Riley Sager",
     ["Mystery", "Thriller"],
@@ -65,6 +65,16 @@ Today, Maggie is a restorer of old homes and too young to remember any of the ev
     "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475695315i/18045891.jpg"
   ),
 
+  new BookEntity(
+    "Hidden Pictures",
+    `Mallory Quinn is fresh out of rehab when she takes a job as a babysitter for Ted and Caroline Maxwell. She is to look after their five-year-old son, Teddy.
+
+    Mallory immediately loves it. She has her own living space, goes out for nightly runs, and has the stability she craves. And she sincerely bonds with Teddy, a sweet, shy boy who is never without his sketchbook and pencil. His drawings are the usual fare: trees, rabbits, balloons. But one day, he draws something different: a man in a forest, dragging a woman’s lifeless body.`,
+    "Jason Rekulak",
+    ["Horror", "Mystery","Thriller"],
+    4,
+    "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1681643593i/61885058.jpg"
+  ),
   new BookEntity(
     "Misery",
     `Paul Sheldon. He's a bestselling novelist who has finally met his biggest fan. Her name is Annie Wilkes and she is more than a rabid reader - she is Paul's nurse, tending his shattered body after an automobile accident. But she is also his captor, keeping him prisoner in her isolated house.`,
@@ -122,7 +132,7 @@ Claire is convinced Julia's disappearance is linked.
 
 But when she begins to learn the truth about her sister, she is confronted with a shocking discovery, and nothing will ever be the same...`,
     "Karin Slaughter",
-    ["Mystery", "Thriller"], 
+    ["Mystery", "Thriller"],
     3,
     "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1432205734i/25574782.jpg"
   ),
@@ -182,4 +192,3 @@ Rachel catches the same commuter train every morning. She knows it will wait at 
 
   ),
 ]
-
