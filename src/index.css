@@ -74,6 +74,10 @@ nav{
   font-weight: 800;
 }
 
+.book-synopsis {
+  white-space: pre-line;
+}
+
 .author-container {
   display: flex;
   align-items: center;

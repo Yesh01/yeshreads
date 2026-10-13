@@ -2,7 +2,7 @@
 function Navbar() {
   return (
     <nav>
-      <div className="nav-title">brentreads.lib</div>
+      <div className="nav-title">yeshreads.lib</div>
     </nav>
   )
 }

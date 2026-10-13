@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <div>{"<Brent KV/>"}</div>
+      <div>{"<Yearu R./>"}</div>
       <div className="copyright">Images sourced from Goodreads. All rights belong to their respective owners.</div>
     </footer>
   )
