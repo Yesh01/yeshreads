@@ -7,14 +7,14 @@
   color: white;
 }
 body{
-  background-color: #10151d;
+  background-color: #13161a;
 }
 
 nav{
   width: 100%;
   display: flex;
   align-items: center;
-  background-color: #151e2b;
+  background-color: #1a1f25;
   padding: 20px 40px; 
   font-size: 20px; 
   font-weight: 700;
@@ -35,7 +35,7 @@ nav{
 /*FILTER*/
 .filter-container {
   width: 100%;
-  background-color: #151e2b;
+  background-color: #1a1f25;
 }
 
 .filter {
@@ -99,7 +99,7 @@ nav{
 }
 
 footer{
-  background-color:#151e2b ;
+  background-color:#1a1f25 ;
   padding:20px 5rem;
   text-align: center;
 }
