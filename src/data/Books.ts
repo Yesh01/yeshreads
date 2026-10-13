@@ -145,6 +145,15 @@ But when she begins to learn the truth about her sister, she is confronted with 
     3,
     "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615850400l/55809780.jpg"
   ),
+
+  new BookEntity(
+    "The Maid",
+    `Molly Gray is not like everyone else. She struggles with social skills and misreads the intentions of others. Her gran used to interpret the world for her, codifying it into simple rules that Molly could live by. `,
+    "Nita Prose",
+    ["Mystery", "Thriller"],
+    3,
+    "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1643228739i/55196813.jpg"
+  ),
   new BookEntity(
     "The House Across The Lake",
     "Casey Fletcher, a recently widowed actress trying to escape a streak of bad press, has retreated to the peace and quiet of her family’s lake house in Vermont. Armed with a pair of binoculars and several bottles of liquor, she passes the time watching Tom and Katherine Royce, the glamorous couple who live in the house across the lake. They make for good viewing—a tech innovator, Tom is rich; and a former model, Katherine is gorgeous. ",
